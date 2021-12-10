@@ -15,7 +15,7 @@
 		"jszip":"2.4.0",
 		"crc-32":"",
 		"adler-32":"",
-		"commander":""
+		"commander":"2.5.1"
 	},
 	"devDependencies": {
 		"mocha":"",
